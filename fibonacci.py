@@ -1,5 +1,5 @@
 '''
-Fabio Pilon 0391/22-1
+
 sequencia de fibonacci recursiva e com laço for
 
 '''
