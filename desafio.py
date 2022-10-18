@@ -1,6 +1,6 @@
-# Nome: Fabio Pilon 0391/22-1
+
        
-# um numero primp é divisivel por 1 e por ele mesmo
+# um numero primo é divisivel por 1 e por ele mesmo
 # crie um algoritmo que solicite um valor limite com até 4 digitos (0-9999)
 # busque todos os primos ate o valor limite
 #guardar numa matriz de 1 dimensao
